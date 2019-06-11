@@ -1,0 +1,3 @@
+Wright Finite Element Method (WFEM) is designed to be an easily extensible research-oriented structural finite element code. The design concept is that all “parts” of the model are actions by external codes. The central finite element code knows nothing about any particular element or boundary condition type. It depends on a completely self-capable code for implementing the “method” of the element or boundary condition. The advantage of this approach is that the code is able to handle the introduction of new elements without any modification of existing parts of the package. Further, additional capabilities can be added to elements without disruption to the main body of the code.
+
+The manual is located at `docs/wfem.pdf`
