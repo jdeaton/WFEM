@@ -1,3 +1,7 @@
+## MATLAB generated files:
+*~
+*.mat
+
 ## MacOS generated files:
 .DS_Store
 
